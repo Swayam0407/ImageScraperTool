@@ -17,4 +17,6 @@ A simple Flask web application for downloading images from the Web. Users can en
 ## Project Workflow
 <img width="1113" alt="Screenshot 2024-08-07 at 11 12 48 PM" src="https://github.com/user-attachments/assets/90df4bfa-074b-48f1-9020-c68bf0c9075e">
 
+##Screenshots
+<img width="1680" alt="Screenshot 2024-11-02 at 9 05 01 PM" src="https://github.com/user-attachments/assets/85f8eb9a-6cf1-447c-8d43-b3cfb43caa45">
 
